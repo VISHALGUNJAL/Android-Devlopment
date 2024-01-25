@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="jbr-17" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/activitylifecycle" />
+            <option value="$PROJECT_DIR$/app/adapterdemo" />
+            <option value="$PROJECT_DIR$/app/calculatordemo" />
+            <option value="$PROJECT_DIR$/app/constraintdemo" />
+            <option value="$PROJECT_DIR$/app/dialogs" />
+            <option value="$PROJECT_DIR$/app/explicitintent" />
+            <option value="$PROJECT_DIR$/app/firebasedemo" />
+            <option value="$PROJECT_DIR$/app/fragmentdemo" />
+            <option value="$PROJECT_DIR$/app/fusionofactivityandfragment" />
+            <option value="$PROJECT_DIR$/app/imagebuttondemo" />
+            <option value="$PROJECT_DIR$/app/implicitintent" />
+            <option value="$PROJECT_DIR$/app/intentfilterforsharetext" />
+            <option value="$PROJECT_DIR$/app/jsonparsingdemo" />
+            <option value="$PROJECT_DIR$/app/loginregistration" />
+            <option value="$PROJECT_DIR$/app/menus" />
+            <option value="$PROJECT_DIR$/app/notificationdemo" />
+            <option value="$PROJECT_DIR$/app/passdatafromoneactivitytoother" />
+            <option value="$PROJECT_DIR$/app/viewgroups" />
+            <option value="$PROJECT_DIR$/app/views" />
+            <option value="$PROJECT_DIR$/app/webservicesdemo" />
+            <option value="$PROJECT_DIR$/app/webviewdemo" />
+            <option value="$PROJECT_DIR$/app/xmlparsingdemo" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
